@@ -2865,12 +2865,29 @@
           "text": "Copyright (c) 2016 Illumina."
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "eillumina-header3-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#000000",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "_name": "image1",
           "_anchor": "eillumina-image1-0",
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/51158-o6njdr-01-1400x559-20.jpg",
+              "src": "@PROJECT_PATH@/assets/images/51158-o6njdr-01-1400x559-13.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
