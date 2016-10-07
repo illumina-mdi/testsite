@@ -453,7 +453,7 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-0",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
@@ -773,6 +773,37 @@
             "showBullets": true
           },
           "_anchor": "slider2-0"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_name": "social-buttons3",
+          "_anchor": "index-social-buttons3-0",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
         },
         {
           "_name": "footer1",
