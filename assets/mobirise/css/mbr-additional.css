@@ -267,6 +267,12 @@
 #features1-0 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #faaf40;
 }
+#features1-0 .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #000000;
+}
+#features1-0 .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #000000;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -348,12 +354,18 @@
 #msg-box7-0 P {
   font-size: 18px;
 }
+#msg-box7-0 B {
+  color: #fac51c;
+}
 #msg-box7-1 .mbr-section-title,
 #msg-box7-1 .lead p {
   color: #fff;
 }
 #msg-box7-1 H3 {
   font-size: 36px;
+}
+#msg-box7-1 B {
+  color: #fac51c;
 }
 #msg-box7-2 .mbr-section-title,
 #msg-box7-2 .lead p {
@@ -362,12 +374,18 @@
 #msg-box7-2 H3 {
   font-size: 36px;
 }
+#msg-box7-2 B {
+  color: #fac51c;
+}
 #msg-box7-3 .mbr-section-title,
 #msg-box7-3 .lead p {
   color: #fff;
 }
 #msg-box7-3 H3 {
   font-size: 36px;
+}
+#msg-box7-3 B {
+  color: #fac51c;
 }
 
 

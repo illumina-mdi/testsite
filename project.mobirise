@@ -1387,6 +1387,12 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#faaf40"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#000000"
             }
           },
           "_anchor": "features1-0",
@@ -1426,7 +1432,7 @@
             }
           },
           "title1": "<a href=\"Ilumina.html#msg-box7-0\" class=\"text-black\">URBAN ILLUMINA</a>",
-          "subtitle1": "",
+          "subtitle1": "23rd October (evening)<br>",
           "caption1": "Urban Illumina is held at MDI campus in the form of a Diwali mela with visitors from across various walks of life",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -1442,7 +1448,7 @@
             }
           },
           "title2": "<a href=\"Ilumina.html#msg-box7-1\">RURAL ILLUMINA</a>",
-          "subtitle2": "",
+          "subtitle2": "11th October",
           "caption2": "Rural Illumina is a market research conducted during the famous Dussehra Mela at Pataudi, which gives us an opportunity to study rural consumers",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
@@ -1458,7 +1464,7 @@
             }
           },
           "title3": "<a href=\"Ilumina.html#msg-box7-2\" class=\"text-black\">MALL ILLUMINA</a>",
-          "subtitle3": "",
+          "subtitle3": "16th October",
           "caption3": "The idea behind Mall Illumina is to conduct market research on mall going consumers",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
@@ -1474,7 +1480,7 @@
             }
           },
           "title4": "<a href=\"Ilumina.html#msg-box7-3\">EXPRESSIONS</a>",
-          "subtitle4": "",
+          "subtitle4": "23rd October (morning)",
           "caption4": "Expressions is an event exclusively for children aged 6-16, to get their insights for research",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
@@ -1630,6 +1636,9 @@
             },
             "P": {
               "font-size": "18px"
+            },
+            "B": {
+              "color": "#fac51c"
             }
           },
           "_name": "msg-box7",
@@ -1680,7 +1689,7 @@
             }
           },
           "title": "URBAN ILLUMINA",
-          "text": "MR under the guise of a Diwali fun 'n food mela is conducted on the campus of MDI, Gurgaon. The mela attracts crowds in excess of 5000, and from various SECs. Our previous partners have included HUL, Godrej, IOCL, HP, Brittania, Maruti Suzuki, UBI amongst others.&nbsp;",
+          "text": "<br><b>23rd October, 2016 (Evening)</b><br>MR under the guise of a Diwali fun 'n food mela is conducted on the campus of MDI, Gurgaon. The mela attracts crowds in excess of 5000, and from various SECs. Our previous partners have included HUL, Godrej, IOCL, HP, Brittania, Maruti Suzuki, UBI amongst others.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1691,6 +1700,9 @@
             },
             "H3": {
               "font-size": "36px"
+            },
+            "B": {
+              "color": "#fac51c"
             }
           },
           "_name": "msg-box7",
@@ -1734,7 +1746,7 @@
             }
           },
           "title": "RURAL ILLUMINA",
-          "text": "Under this format of Illumina, we target rural folks. Under the guise of Pataudi's famous Dussehra mela, we conduct our MR. Previous partners have include Airtel, Tata Solar Power, SBI amongst others.<br>",
+          "text": "<b>11th October, 2016</b><br>Under this format of Illumina, we target rural folks. Under the guise of Pataudi's famous Dussehra mela, we conduct our MR. Previous partners have include Airtel, Tata Solar Power, SBI amongst others.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1745,6 +1757,9 @@
             },
             "H3": {
               "font-size": "36px"
+            },
+            "B": {
+              "color": "#fac51c"
             }
           },
           "_name": "msg-box7",
@@ -1788,7 +1803,7 @@
             }
           },
           "title": "MALL ILLUMINA",
-          "text": "&nbsp;Indulge is held at malls to target the affluent mall going crowd. Under the guise of talent hunt and fashion shows, market research is conducted on SEC A and B. The event is designed and organized by the students under the guidance of the faculty. Previous partner includes W for Women amongst others.<br>",
+          "text": "<b>16th October</b><br>&nbsp;Indulge is held at malls to target the affluent mall going crowd. Under the guise of talent hunt and fashion shows, market research is conducted on SEC A and B. The event is designed and organized by the students under the guidance of the faculty. Previous partner includes W for Women amongst others.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1799,6 +1814,9 @@
             },
             "H3": {
               "font-size": "36px"
+            },
+            "B": {
+              "color": "#fac51c"
             }
           },
           "_name": "msg-box7",
@@ -1842,7 +1860,7 @@
             }
           },
           "title": "EXPRESSIONS",
-          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Expressions is the format of Illumina which conducts disguised MR exclusively for kids aged 6-16. In earlier editions, we have partnered with Cadbury, Aviva, ICICI and BILT amongst others to conduct disguised MR on a sample of ~500 kids, through competitions such as extempore, painting and essay writing.&nbsp;</span><br>",
+          "text": "<b>23th October, 2016 (Morning)</b><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Expressions is the format of Illumina which conducts disguised MR exclusively for kids aged 6-16. In earlier editions, we have partnered with Cadbury, Aviva, ICICI and BILT amongst others to conduct disguised MR on a sample of ~500 kids, through competitions such as extempore, painting and essay writing.&nbsp;</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -2870,7 +2888,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Illumina</b>, the disguised market research event club of MDI Gurgaon in its 20th year brings to you the <b>1st ever edition</b> of the nation-wide market research competition <b>E-Illumina</b> in association with <b>Tetra </b><b>Pak</b>.</p><p><br></p><p>It’s time to step out of the pages of Kotler and enter the real and murky world of market research. The event tests the marketing knowledge and bent of mind by challenging them with real world situations. We are looking forward to test your understanding of consumer behaviour and your marketing prowess by working on a live issue floated by Tetra-Pak.</p><p><br></p><p><br></p><p><b>Event Format</b></p><ul><li><b>Round 1:</b> Case study analysis by each team (provided by Tetra Pak)\n</li><li><b>Round 2:</b> Market Research to be conducted by the selected teams and report to be submitted with the findings and inferences</li></ul><p><br></p><p><br></p><p><b>Total Prize Money Rs 40,000</b></p><ul><li>First Prize of 25,000 INR</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Second Prize of 15,000 INR</span></li></ul><p><br></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Rules</b></span></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Team size of 4-6 members</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Only 1 person need to register per team</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">All the team members should be from the same institute</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The format for case study solution will be provided by us</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">No applicant should be a part of more than one team</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Plagiarism of any kind will lead to disqualification</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The decision of the judges will be final and binding</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Evaluation based on understanding, idea and application of concept</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Important Dates\n\n</b></span></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Registration Starts : <b>12th October, 2016\n</b></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Case Study Launch : <b>17th October, 2016</b></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">\nSubmission Deadline : <b>28th October, 2016\n</b></span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b><br></b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b><br></b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Details about results and round 2 will be uploaded soon after registration starts.. stay tuned..</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p>"
+          "text": "<p><b><br></b></p><p><b>Illumina</b>, the disguised market research event club of MDI Gurgaon in its 20th year brings to you the <b>1st ever edition</b> of the nation-wide market research competition <b>E-Illumina</b> in association with <b>Tetra </b><b>Pak</b>.</p><p><br></p><p>It’s time to step out of the pages of Kotler and enter the real and complex world of market research.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">The event tests the marketing knowledge and the bent of mind of the participants by challenging them with real world situations. We are looking forward to test your understanding of consumer behaviour and your marketing prowess by working on a live issue floated by Tetra-Pak.</span></p><p><br></p><p><b>Event Format</b></p><ul><li><b>Round 1:</b> Case study analysis by each team (provided by Tetra Pak)\n</li><li><b>Round 2:</b> Market Research to be conducted by the selected teams and report to be submitted with the findings and inferences</li></ul><p><br></p><p><br></p><p><b>Total Prize Money Rs 40,000</b></p><ul><li>First Prize of 25,000 INR</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Second Prize of 15,000 INR</span></li></ul><p><br></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Rules</b></span></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Team size of 4-6 members</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Only 1 person need to register per team</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">All the team members should be from the same institute</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The format for case study solution will be provided by us</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">No applicant should be a part of more than one team</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Plagiarism of any kind will lead to disqualification</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The decision of the judges will be final and binding</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Evaluation based on understanding, idea and application of concept</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Important Dates\n\n</b></span></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Registration Starts : <b>12th October, 2016\n</b></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Case Study Launch : <b>17th October, 2016</b></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">\nSubmission Deadline : <b>28th October, 2016\n</b></span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b><br></b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b><br></b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Details about results and round 2 will be uploaded soon after registration starts.. stay tuned..</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p>"
         },
         {
           "_name": "contacts1",
