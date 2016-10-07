@@ -817,42 +817,29 @@
       "components": [
         {
           "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "36px"
+            "H3": {
+              "color": "#ffffff"
             }
           },
-          "_name": "content5",
-          "_anchor": "content5-0",
+          "_name": "header3",
+          "_anchor": "team-header3-0",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "7",
             "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "bgColor": "#000000",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": false
+            "showMeta": false
           },
           "title": "MEET OUR AWESOME TEAM",
-          "caption": ""
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_inherit": "gallery1",
           "_name": "gallery3",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": 1,
             "images": [
               {

@@ -170,13 +170,12 @@
 }
 
 
-#content5-0 .mbr-section-title,
-#content5-0 p {
-  color: #fff;
-}
-#content5-0 .mbr-section-title {
+#team-header3-0 .mbr-section-title,
+#team-header3-0 .mbr-section-subtitle {
   text-align: center;
-  font-size: 36px;
+}
+#team-header3-0 H3 {
+  color: #ffffff;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
