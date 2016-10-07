@@ -2101,10 +2101,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lava-2000x800-93-2000x800-25.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lava-2000x800-93.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lava-2000x800-29-2000x800-13.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lava-2000x800-29.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -2114,7 +2114,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/pnb-2000x800-47-2000x800-98.jpg",
                 "image": "@PROJECT_PATH@/assets/images/pnb-2000x800-47.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
