@@ -501,7 +501,6 @@
 }
 
 
-
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -585,12 +584,8 @@
 #content5-0 P {
   color: #565656;
 }
-#form1-0 .form-control-label {
+#content5-0 DIV {
   color: #000000;
-}
-#form1-0 .mbr-section-title {
-  font-size: 30px;
-  font-family: 'Raleway', sans-serif;
 }
 
 
